@@ -1,0 +1,46 @@
+[
+    {
+        "cap": 20100,
+        "citta": "Milano",
+        "cod_catastale": "F205",
+        "cod_regione": 3,
+        "id": 3986,
+        "provincia": "MI",
+        "regione": "Lombardia"
+    },
+    {
+        "cap": 80100,
+        "citta": "Napoli",
+        "cod_catastale": "F839",
+        "cod_regione": 15,
+        "id": 4478,
+        "provincia": "NA",
+        "regione": "Campania"
+    },
+    {
+        "cap": 80010,
+        "citta": "Quarto",
+        "cod_catastale": "H114",
+        "cod_regione": 15,
+        "id": 5484,
+        "provincia": "NA",
+        "regione": "Campania"
+    },
+    {
+        "cap": 00100,
+        "citta": "Roma",
+        "cod_catastale": "H501",
+        "cod_regione": 12,
+        "id": 5775,
+        "provincia": "RM",
+        "regione": "Lazio"
+    },
+    {
+        "cap": 80010,
+        "citta": "Villaricca",
+        "cod_catastale": "G309",
+        "cod_regione": 15,
+        "id": 7769,
+        "provincia": "NA",
+        "regione": "Campania"
+    }]
